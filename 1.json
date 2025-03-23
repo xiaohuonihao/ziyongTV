@@ -3,8 +3,6 @@
 
  "sites": [
 
-{"key":"csp_LocalFile","name":"佰杺园提醒您：请勿相信视频内广告
-","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
 
 
   {"key": "drpy_js_奇珍异兽", "name": "爱奇艺","type": 3,"api": "./api/drpy2.min.js","ext": "./js/奇珍异兽.js"},
